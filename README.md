@@ -1,6 +1,7 @@
 # The-Luminous-Frontier
 The Luminous Frontier is an NFT project.
 Title: The Luminous Frontier
+![8-2WOffdKwhPdiJyL](https://github.com/Akansha-cr/The-Luminous-Frontier/assets/73830381/bf5c0551-c99e-4bcb-b16c-a0d28565572e)
 
 Once upon a time, in the year 3206, young Ethan, a courageous space boy, embarked on a daring journey through the vast reaches of the cosmos. His mission was to rescue his beloved family, who had gone missing while searching for a new home amidst the stars. They had been engulfed by a mysterious wormhole, transporting them to an unknown planet far away from their intended destination.
 
@@ -11,6 +12,7 @@ Guided by his advanced technology and interstellar knowledge, Ethan ventured dee
 The planet's abundant greenery, illuminated by an otherworldly luminescence, painted a surreal scene. However, the beauty masked the dangers that lurked within the shadows. Ethan remained vigilant, his senses sharpened by the urgency to reunite with his family. His heart filled with a mixture of hope and trepidation, driving him forward.
 
 Along his journey, Ethan discovered remnants of his family's presence – fragments of their ship, scattered belongings, and cryptic messages etched into the planet's terrain. These signs fueled his determination, providing glimpses of their struggle and resilience.
+![8-rzaaebYsY4vfXza](https://github.com/Akansha-cr/The-Luminous-Frontier/assets/73830381/e9e1278f-8332-46bc-9481-bae2413e5c22)
 
 As Ethan delved deeper, the planet's secrets began to unravel. The darkness that cloaked the planet held a hidden menace, an ancient force that sought to consume all who dared to trespass. It manifested as elusive shadows, whispering their sinister intentions. Yet, undeterred, Ethan pressed on, driven by an unyielding determination to bring his family home.
 
